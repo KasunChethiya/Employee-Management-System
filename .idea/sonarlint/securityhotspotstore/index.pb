@@ -3,8 +3,6 @@ O
 src/main/java/org/emp/Main.java,5\5\554196d0e51c2658fd8bd5e023bebf14c23fb20a
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-w
-G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -14,18 +12,10 @@ Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140
 Q.idea/sonarlint/securityhotspotstore/5/5/554196d0e51c2658fd8bd5e023bebf14c23fb20a,5\6\56faddad569ea6739967b7534a2451a42186249b
 Å
 Q.idea/sonarlint/securityhotspotstore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,0\c\0c4799549ebca80c86406fd218445fef27b61acc
-w
-G.idea/sonarlint/issuestore/5/6/56faddad569ea6739967b7534a2451a42186249b,2\2\221359ac80fde679574bc24987af836a4cd8e0c3
-w
-G.idea/sonarlint/issuestore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,3\0\30f9777ea696a18aa49d3e9967e93a4276065227
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
 Å
 Q.idea/sonarlint/securityhotspotstore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,f\6\f6d8310b47b1802ff534ff6900f24d2d3b76c4f1
-w
-G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
-w
-G.idea/sonarlint/issuestore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,1\0\10f2119b18de4c2d93011c2acd27301df22c2983
 Å
 Q.idea/sonarlint/securityhotspotstore/5/6/56faddad569ea6739967b7534a2451a42186249b,2\9\2957b1335ac4532872b9a14a388a1cd80ebf2958
 p

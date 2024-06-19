@@ -1,10 +1,8 @@
 package org.emp.employeeController;
 
 import org.emp.dto.Employee;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.http.converter.json.GsonBuilderUtils;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,5 +19,11 @@ public class EmployeeController {
         employeeList.add(employee);
 
     }
+    @GetMapping("get-all")
+    public List<Employee> getAll(){
+        return employeeList;
+    }
+
+
 }
 
